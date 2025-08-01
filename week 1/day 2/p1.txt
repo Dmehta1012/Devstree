@@ -1,0 +1,28 @@
+# 1. Install Git (if not already installed)
+# Download from https://git-scm.com/downloads and install.
+
+# 2. Open terminal (Command Prompt, PowerShell, or Git Bash)
+
+# 3. Navigate to your project directory
+cd "C:/Users/devarsh mehta/OneDrive/AppData/Desktop/Devstree/week 1/day 2"
+
+# 4. Initialize a new Git repository
+git init
+
+# 5. Create a new repository on GitHub (https://github.com/new)
+#    Name it, e.g., week1-tasks
+
+# 6. Add your Day 1 task files to this folder (copy them here if needed)
+
+# 7. Add files to staging area
+git add .
+
+# 8. Commit the files
+git commit -m "Add Day 1 task"
+
+# 9. Link your local repo to GitHub
+git remote add origin https://github.com/Dmehta1012/Devstree.git
+
+# 10. Push your code to GitHub
+git branch -M main
+git push -u origin main
