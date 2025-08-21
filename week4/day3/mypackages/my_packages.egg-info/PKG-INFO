@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: my_packages
+Version: 0.1
+Summary: Simple custom packages
+Author: Devarsh Mehta
+Dynamic: author
+Dynamic: summary
